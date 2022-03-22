@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647822241 source:c:\users\briana jade\documents\c++\as2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647823637 source:c:\users\briana jade\documents\c\as2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

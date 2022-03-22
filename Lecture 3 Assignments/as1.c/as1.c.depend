@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647822911 source:c:\users\briana jade\documents\c++\as1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647949099 source:c:\users\briana jade\documents\c\as1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
