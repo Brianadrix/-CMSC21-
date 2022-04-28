@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651152947 source:c:\users\briana jade\documents\c\ass 7\sample5\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
