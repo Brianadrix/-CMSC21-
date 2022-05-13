@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652077200 source:c:\users\briana jade\documents\c\ass 7\lecture6-7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
