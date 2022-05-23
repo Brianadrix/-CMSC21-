@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653313276 source:c:\users\briana jade\documents\c\lab\adricula_testiii-2\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
